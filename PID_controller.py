@@ -30,7 +30,7 @@ ucurr = 0  # x[n] (step input)
 wfprev = 0  # y[n-1]
 wfcurr = 0  # y[n]
 
-# Initializing variables and starting clock
+# Initializing variables and starting timer
 thetaprev = 0
 tprev = 0
 tcurr = 0
